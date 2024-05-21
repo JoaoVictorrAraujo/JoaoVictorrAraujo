@@ -10,11 +10,6 @@
  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,postgres,sequelize,yarn,docker,git,github,vscode" />
   </a>
 </p>
-
-<h3> Statics </h3>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorrAraujo&hide_progress=true)
-
-
 <h3>Onde me Encontrar</h3>
 <p><a href="mailto:joaovictoraraujo298@gmail.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/joaovicctoraraujo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
